@@ -268,7 +268,6 @@ modificar_producto() {
 	return 1
     fi
 
-    # 4. Actualizar el registro en SQLite
     sqlite3 "$DB_FILE" "UPDATE productos SET nombre_producto = '$nombre_nuevo', precio_producto = $precio_nuevo WHERE id = $id;"
 
     if [ $? -eq 0 ]; then
