@@ -1,9 +1,0 @@
-[2026-11-08 01:56:22] ERROR: Inicio de sesión fallido para 'hola'
-[2026-11-08 02:04:10] ERROR: Alta fallida: Error de inserción SQLite para ID 0
-[2026-11-08 02:04:20] ERROR: Alta fallida: Error de inserción SQLite para ID 1
-[2026-11-08 02:04:29] ERROR: Alta fallida: Error de inserción SQLite para ID 1
-[2026-11-08 02:05:27] ERROR: Alta fallida: Error de inserción SQLite para ID 1
-[2026-11-08 02:07:44] ERROR: Intento de inicio de sesión con campos vacíos
-[2026-11-08 02:08:37] ERROR: Baja fallida: Error de UPDATE SQLite en ID 0
-[2026-11-08 02:13:05] ERROR: Baja fallida: Error de UPDATE SQLite en ID 0
-[2026-11-08 02:13:12] ERROR: Baja fallida: Error de UPDATE SQLite en ID 1
